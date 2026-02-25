@@ -1,7 +1,7 @@
 # Earthquake-prediction-using-Machine-learning-models
 
 A project done for the course CSE(AI&ML) - under <b>THANVEER JAHAN </b>
-<h3>Team members</h3>
+<h3>Team member</h3>
 <ul>
 <li><b>CHEKERALA BENHUR RAJ 20641A6653</b> Github: <a href="https://github.com/Benhurraj16">Benhurraj16</a></li>
 </ul>
